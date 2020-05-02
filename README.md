@@ -1,68 +1,77 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+</p>
 
-## Available Scripts
+<h3 align="center">Typescript learning project</h3>
 
-In the project directory, you can run:
+<div align="center">
 
-### `npm start`
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![GitHub Issues]https://img.shields.io/github/issues/Crobatair/typescript-start.svg)](https://github.com/Crobatair/typescript-start/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Crobatair/typescript-start.svg)](https://github.com/Crobatair/typescript-start/pulls)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+</div>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+---
 
-### `npm test`
+<p align="center">
+    The purpose of this project is learn typescript implementing ReactHooks and other stuffs :)
+    <br> 
+</p>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📝 Table of Contents
 
-### `npm run build`
+- [About](#about)
+- [Getting Started](#getting_started)
+- [Deployment](#deployment)
+- [Usage](#usage)
+- [TODO](../TODO.md)
+- [Contributing](../CONTRIBUTING.md)
+- [Authors](#authors)
+- [Acknowledgments](#acknowledgement)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🧐 About <a name = "about"></a>
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+  This project will include
+    -> Typescript
+    -> ReactHooks
+    -> GraphQL
+    -> Other comming soon
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🏁 Getting Started <a name = "getting_started"></a>
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Start -> npm start
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### Prerequisites
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- Node v10
 
-## Learn More
+recommended install NVM and use  Node 10
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Installing
 
-### Code Splitting
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+```
+npm install
+```
 
-### Analyzing the Bundle Size
+## 🎈 Usage <a name="usage"></a>
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+Add notes about how to use the system.
 
-### Making a Progressive Web App
+## 🚀 Deployment <a name = "deployment"></a>
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+  Will be user Docker or Heroku for deployment
 
-### Advanced Configuration
+## ✍️ Authors <a name = "authors"></a>
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+- [@Crobatair](https://github.com/Crobatair) - Idea & Initial work
 
-### Deployment
+## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+- Reference https://www.udemy.com/course/typescript-with-react-hooks-and-context/
