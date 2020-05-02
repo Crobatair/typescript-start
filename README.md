@@ -8,7 +8,7 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues]https://img.shields.io/github/issues/Crobatair/typescript-start.svg)](https://github.com/Crobatair/typescript-start/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/Crobatair/typescript-start.svg)](https://github.com/Crobatair/typescript-start/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Crobatair/typescript-start.svg)](https://github.com/Crobatair/typescript-start/pulls)
 
 </div>
